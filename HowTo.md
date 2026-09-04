@@ -19,21 +19,21 @@ After that when ever you feal like it, you can open the terminal and run:
 python "C:\RandG\RandG.py"
 ```
 
-### Installation(If python is not installed)
-Click here to [download RandG.zip](https://github.com/RequestTimeout/RandG/raw/refs/heads/main/RandG.zip), OR go to /RequestTimeout/RandG/RandG.zip
-and download the ZIP.
+### Installation(If python is not installed) -> Not Available
+~~Click here to [download RandG.zip](https://github.com/RequestTimeout/RandG/raw/refs/heads/main/RandG.zip), OR go to /RequestTimeout/RandG/RandG.zip~~
+~~and download the ZIP.~~
 
 ---
-Then extract the ZIP into somewhere accessible, like:
+~~Then extract the ZIP into somewhere accessible, like:~~
 ```
 C:\RandG\
 ```
 
-After the extraction is done, you can open the terminal and run:
+~~After the extraction is done, you can open the terminal and run:~~
 ```bash
 "C:\RandG\RandG.exe"
 ```
-Or on PowerShell:
+~~Or on PowerShell:~~
 ```bash
 & "C:\RandG\RandG.exe"
 ```
