@@ -5,7 +5,7 @@
 > Some Features Might Not Work On MacOS or Linux.
 
 ### Installation(If Python is installed)
-Click here to [download RandG.py](https://raw.githubusercontent.com/RequestTimeout/RandG/main/src/RandG.py), OR go to /RequestTimeout/RandG/src/RandG.py
+Click here to [download randG.py](https://raw.githubusercontent.com/RequestTimeout/RandG/main/src/randG.py), OR go to /RequestTimeout/RandG/src/randG.py
 and download the file.
 
 ---
@@ -19,7 +19,7 @@ After that when ever you feal like it, you can open the terminal and run:
 python "C:\RandG\RandG.py"
 ```
 
-### Installation(If python is not installed) -> Not Available
+~~### Installation(If python is not installed) -> Not Available~~
 ~~Click here to [download RandG.zip](https://github.com/RequestTimeout/RandG/raw/refs/heads/main/RandG.zip), OR go to /RequestTimeout/RandG/RandG.zip~~
 ~~and download the ZIP.~~
 
