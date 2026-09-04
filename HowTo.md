@@ -19,7 +19,7 @@ After that when ever you feal like it, you can open the terminal and run:
 python "C:\RandG\RandG.py"
 ```
 
-~~### Installation(If python is not installed) -> Not Available~~
+### Installation(If python is not installed) -> Not Available
 ~~Click here to [download RandG.zip](https://github.com/RequestTimeout/RandG/raw/refs/heads/main/RandG.zip), OR go to /RequestTimeout/RandG/RandG.zip~~
 ~~and download the ZIP.~~
 
