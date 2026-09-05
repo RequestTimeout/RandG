@@ -1,4 +1,4 @@
-# RandG
+# <div align="center">RandG</div>
 ## Released
 `RandG` is now officially **V1.0**.
 
